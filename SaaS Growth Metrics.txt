@@ -1,7 +1,0 @@
-SaaS Growth Metrics
-
-# 1. Churn. Analyzing churn, you will have to focus on both customer and revenue churn.
-
-# 1.1 Customer Churn is % subscribers who discontinue (or discontinue and downgrade) their subscriptions.
-
-# 1.2 Revenue Churn is $ which you lose with departing customers.
