@@ -15,4 +15,6 @@ sqrt(avg(power((actual - forecast), 2))) RMSE,
 avg(abs((actual - forecast))) MAE,
 avg(abs(actual - forecast) / abs(actual)) * 100 MAPE
 
-from cte2 group by 1, 2 order by 1, 2;
+from cte2 
+group by 1, 2 
+order by 1, 2;
