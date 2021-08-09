@@ -1,4 +1,4 @@
-# Find the top 10 users that have traveled the greatest distance
+# Find the top 10 customers with criterias
 
 use classicmodels;
 select * from payments;
