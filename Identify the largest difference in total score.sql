@@ -1,4 +1,4 @@
-# Write a query that identifies the largest difference in total score of all assignments
+# Identify the largest difference in total score
 
 use classicmodels;
 select * from orderdetails;
